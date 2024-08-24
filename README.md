@@ -1,10 +1,8 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
+  My Portfolio Website<br/>
 </h2>
 
 ## Built With
-
-My personal portfolio 
 <br/>
 
 This project was built using these technologies.
