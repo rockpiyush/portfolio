@@ -11,10 +11,10 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Piyush Sharma </span>
             from <span className="purple"> Jaipur, India.</span>
             <br />
-            I am currently employed as a Senior Software Developer at Cyntexa.
+            I am currently employed as a Technical Analyst at Cyntexa.
             <br />
             <br />
-            I am   <i><b className="purple"> 6x Salesforce certified </b></i> Professional.
+            I am   <i><b className="purple"> 9x Salesforce certified </b></i> Professional.
             <br />
             <br />
             With             <i><b className="purple"> Four </b></i>            years of hands-on expertise in the industry. I possess a strong background in 
@@ -22,6 +22,8 @@ function AboutCard() {
             complemented by proficiency in Node.js, jQuery, and Bootstrap.
             <br />
             <br />
+            Beyond my core expertise in Commerce Cloud, I have a solid foundation in  <i><b className="purple"> Salesforce Sales Cloud </b></i> , allowing me to address a broader spectrum of business needs.
+
 
             Apart from coding, some other activities that I love to do!
           </p>
@@ -33,7 +35,7 @@ function AboutCard() {
               <ImPointRight /> Solving Puzzles
             </li>
             <li className="about-activity">
-              <ImPointRight /> Playing Vollerball
+              <ImPointRight /> Playing Volleyball
             </li>
           </ul>
           <br/>

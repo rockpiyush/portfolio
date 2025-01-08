@@ -7,6 +7,7 @@ function Type() {
       options={{
         strings: [
           "Senior B2C Commerce Developer",
+          "Technical Analyst"
         ],
         autoStart: true,
         loop: true,

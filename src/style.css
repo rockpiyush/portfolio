@@ -741,3 +741,10 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
+
+
+.myImg{
+  opacity: 0.8;
+  border-radius: 30px;
+  box-shadow: 5px 5px 7px rgb(160 127 202 / 60%);
+}
