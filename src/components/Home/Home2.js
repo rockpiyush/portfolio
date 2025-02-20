@@ -23,8 +23,16 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> SFCC, Javascript and Web Development. </b>
+                <b className="purple"> Sales Cloud, SFCC, Javascript, LWC and Web Development. </b>
               </i>
+              <br />
+              <br />
+              I specialize in creating scalable and efficient solutions on the Salesforce platform, leveraging tools like
+              <i>
+                <b className="purple">  Apex, Lightning Web Components</b>
+              </i>
+              , and 
+              <i> <b className="purple"> Salesforce APIs </b> </i> to deliver tailored business solutions.
               <br />
               <br />
               My field of Interest's are building new &nbsp;
